@@ -11,4 +11,4 @@ I've crafted PlantVerse, an immersive online plant store. With HTML, CSS, and Ja
 
 Visit PlantVerse and let's celebrate this fusion of art and code! 🌿🌟
 
-Link: 
+Link: https://8bit-parth.github.io/Plant-Verse/
